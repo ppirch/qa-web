@@ -96,7 +96,7 @@ function App() {
               onChange={handleQuestionChange}
               fullWidth
             />
-            <FormControl sx={{ m: 1, minWidth: 240 }} >
+            <FormControl sx={{ m: 1, minWidth: "15%" }} >
               <InputLabel id="qa-model">Model</InputLabel>
               <Select
                 labelId="qa-model"
