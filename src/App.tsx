@@ -263,7 +263,7 @@ function App() {
           </TabPanel>
         </Box>
       </Container>
-      <Copyright />
+      {/* <Copyright /> */}
     </>
   )
 }
